@@ -1,0 +1,32 @@
+h1{
+    text-align: center;
+    margin:15px !important;
+}
+
+.container{
+    text-align: center;
+    margin-top: 50px;
+}
+
+fieldset{
+    border:solid 1px !important;
+    border-radius: 8px;
+}
+
+legend{
+    text-align: left;
+    margin-left: 25px;
+    
+}
+
+select{
+    margin: 25px !important;
+    width: 50% !important;
+}
+
+input{
+    width: 40% !important;
+    margin: 25px 0px !important;
+    
+}
+

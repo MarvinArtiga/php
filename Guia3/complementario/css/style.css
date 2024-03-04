@@ -1,0 +1,38 @@
+*{
+    margin: 10px;
+}
+
+/* aqui es del ejemplo 1 */
+
+#form2 {
+    max-width: 400px;
+    margin: 20px;
+}
+
+/* aca termina el ejemplo 1 */
+
+/* Para el ejemplo2  */
+
+form {
+    max-width: 200px;
+    margin: 20px;
+}
+table {
+    border-collapse: collapse;
+    width: 50%;
+    margin: 20px;
+}
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+}
+th {
+    background-color: #f2f2f2;
+}
+
+#botonEJemplo2{
+    margin: 10px;
+}
+
+/* aqui se caba lo del ejemplo 2 */
